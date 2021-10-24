@@ -6,7 +6,7 @@
 
 <br />
 
-<p>This is my personal portfolio website that exemplifies my beliefs, skills, qualifications, education, and experiences. </p>
+#### This is my personal portfolio website that exemplifies my beliefs, skills, qualifications, education, and experiences.
 
 ### LICENSE
 
