@@ -10,4 +10,4 @@
 
 ### LICENSE
 
-This project is under <a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>. Copyright (c) 2021 Shubham Choubey
+This project is under <a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>. Copyright Ⓒ 2021 Shubham Choubey
