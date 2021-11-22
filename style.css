@@ -458,6 +458,14 @@ section .title::after{
     color: crimson;
     background: none;
 }
+.submit{
+    color: #fff;
+    text-decoration: none;
+}
+.submit:hover{
+    color: crimson;
+    text-decoration: none;
+}
 
 /* Footer section styling */
 footer{
@@ -474,14 +482,6 @@ footer span a:hover{
     text-decoration: underline;
 }
 
-.submit{
-    color: #fff;
-    text-decoration: none;
-}
-.submit:hover{
-    color: crimson;
-    text-decoration: none;
-}
 
 /* Responsive media query start */
 @media (max-width: 1300px){
